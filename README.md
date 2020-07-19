@@ -1,1 +1,1 @@
-# Parallele-Computing-CUDA
+It is an introduction course to GPU PyCUDA.
